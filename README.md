@@ -1,2 +1,2 @@
-# WebProject
+# CSS Card Design
 WebProject Description
